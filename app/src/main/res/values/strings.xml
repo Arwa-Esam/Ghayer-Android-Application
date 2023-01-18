@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Ghayer</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="welome2">هذا التطبيق يساعد على إعادة غرس المفاهيم الإيجابيّة التي ساهمت في نهضتنا من قبل ولا زالت صالحة لإعادتنا إلى الصّدارة</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="welcome">"Welcome"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="Login">Login</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign up</string>
+    <string name="continu">Continue with Google Account</string>
+    <string name="password">Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="gender">Gender</string>
+    <string name="ok">OK</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="home">Home</string>
+    <string name="m4ro3atna">مشروعاتنا</string>
+    <string name="anghyer">عن غير</string>
+    <string name="le2aat">لقاءات</string>
+    <string name="elkadem">القادم</string>
+    <string name="favourite">المفضلة</string>
+    <string name="setting">الأعدادات</string>
+    <string name="share">شارك التطبيق</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="rate_us">قيم التطبيق</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="qvh_why">Quranic Helicopter View -القرآن بنظرة هليكوبتريّة</string>
+    <string name="qvh_wh">
+        أهداف البرنامج:
+        تحفيظ الطالب القرآن الكريم كاملًا.
+               تعليم الطالب كل أحكام التجويد.
+        مساعدة الطالب في تطبيق القيم القرآنية
+ تدريبك على تدبُّر القرآن وتحويله لواقع
+توفير بيئة إيجابية وصحبة صالحة.
+</string>
+
+    <string name="map1">
+        بعد تجارب 3 سنين من الأنشطة الي نفذناها مع مئات الطلاب في "غَيِّر" كانت ثمرة الخبرة دي هو برنامج "الخريطة" !
+    </string>
+    <string name="map2">
+        هدفه إن الشخص يقدر يرسم خريطة حياته و يحدد بصمته اللي عايز يسيبها في العالم
+                                                              ليه تشترك في الخريطة
+                                هتقضي على هوس الشغف، وهتتعرف على البديل العملي ليه،
+                                               هتحدد أولوياتك وهتعرف ليه لازم تحددها
+        هتتعلم ازاي تتحول من شخص بيتغيّر لشخص بيغيّر
+
+    </string>
+
+
+    <string name="qurdova1">
+يئة متكاملة لتعليم اللغة الإنجليزية أونلاين وقريبًا جدًا هنكون على الأرض كمان.
+    </string>
+    <string name="qurdova2">
+للي بنقّدمه مش مجرد كورس أو محاضرة لمدة ساعتين بتخلصها وبتمشي
+احنا بنحطّك في بيئة متكاملة كلّها إنجليزي وأيًا كان مستواك في اللغة،
+        مش هنسيبك إلّا وأنت Fluent في الإنجليزي، يعني بربنط :D
+    </string>
+
+
+    <string name="plant1">
+        مشروع مهمته الأساسية انه يغرس الفكرة - اللي اتفقنا إنها أهم عملة -
+        علشان يقضي على مشكلة بتحصل ف مجتمعاتنا.
+    </string>
+    <string name="plant2">
+
+        وبيغرس فكر متطور للناس اللي بتحب العمل التطوعي علشان يكون التطوع مكسب ليهم من كل النواحي
+        في غراس مش بنتعامل مع مشكلة من فوق إحنا بنقضي عليها من جذورها وبنزرع مكانها نبته صغيرة تكبر يوم بعد يوم.
+شعارنا في غراس "إغرس فكرة"
+        الفكرة ممكن تكون صدقة جارية ليك في حياتك الأرضية وبعدها،
+    </string>
+    <string name="register_new_account">Register new account</string>
+    <string name="eamail">Email</string>
+    <string name="paassword">Password</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+
+</resources>
