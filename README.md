@@ -1,5 +1,6 @@
 # Ghayer-Android-Application
-our idea is to make an application that helps people to know about GHAYER, how it helps people and society, meetings and events, and projects.
+Our idea is to make an application that helps people to know about a specific community called GHAYER, how it helps people and society, meetings and events, and projects.
+
 ------
 ![1 App-Interface](https://user-images.githubusercontent.com/46052811/214074989-7abaa4ec-b152-4407-b4d8-ef8dd9c59f88.png)
 
